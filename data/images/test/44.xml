@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>6.jpg</filename>
-	<path>C:\final_project\demo\object_detection_demo\data\images\train\6.jpg</path>
+	<folder>test</folder>
+	<filename>44.jpg</filename>
+	<path>C:\final_project\demo\object_detection_demo\data\images\test\44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,20 +19,8 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>13</ymin>
-			<xmax>249</xmax>
-			<ymax>330</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>odometer</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2</xmin>
-			<ymin>56</ymin>
-			<xmax>244</xmax>
-			<ymax>130</ymax>
+			<xmax>212</xmax>
+			<ymax>258</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>32</ymin>
-			<xmax>576</xmax>
-			<ymax>304</ymax>
+			<xmin>226</xmin>
+			<ymin>10</ymin>
+			<xmax>578</xmax>
+			<ymax>238</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>gear_lever</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>283</xmin>
-			<ymin>303</ymin>
-			<xmax>486</xmax>
-			<ymax>569</ymax>
+			<xmin>300</xmin>
+			<ymin>224</ymin>
+			<xmax>488</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>
