@@ -1,7 +1,7 @@
 
 ## How to Run
 
-Easy way: run [this Colab Notebook](https://colab.research.google.com/github/StephanieRogers-ML/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb).
+Easy way: run [this Colab Notebook](https://colab.research.google.com/github/StephanieRogers-ML/object_detection_demo/blob/master/FinalDetection.ipynb).
 
 Alternatively, if you want to use your images instead of ones comes with this repo.
 
